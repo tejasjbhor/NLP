@@ -1,6 +1,6 @@
-# Welcome to markos 0.1 : Speech Assistant 
+# Welcome to speakme 0.1 : Speech Assistant System 
 
-Markos is your personal voice assistant / software agent that can perform tasks or services for an individual based on verbal commands i.e. 
+speakme 0.1 system has 'Markos' who is your personal voice assistant / software agent that can perform tasks or services for an individual based on verbal commands i.e. 
 by interpreting human speech and respond via synthesized voices. 
 Users can ask their assistants’ questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, 
 to-do lists, open or close any application etc with verbal commands.
@@ -51,7 +51,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/tejasjbhor/NLP/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
