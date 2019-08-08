@@ -92,7 +92,7 @@ def wishMe():
     else:
         speak("Good Night!!") 
 
-    speak("I am MARKOS Sir. Please tell me how may I help you ?")       
+    speak("Welcome ........this is speakme personal assistance system and my name is MARKOS . Please tell me how may I help you ?")       
 
 def takeCommand():
     # receives input from microphone and returns string output
